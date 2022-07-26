@@ -1,16 +1,12 @@
-# multy_dy_dropdown
+# Flutter Multiple Dynamic Dependent Dropdown List Using JSON REST API 2022
 
-A new Flutter project.
+Flutter version: 3.0.2
 
-## Getting Started
+in this tutorial we will list down the countries and and base on country selection we will list down the 
+coresponding states and than the cities base on state selection.
 
-This project is a starting point for a Flutter application.
+here is the reference link to get the Country State and cities record
 
-A few resources to get you started if this is your first Flutter project:
+- [Lab: Reference](https://github.com/dr5hn/countries-states-cities-database)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+and we will use http request to get the data from the link
