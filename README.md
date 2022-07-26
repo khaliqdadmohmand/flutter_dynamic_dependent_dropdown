@@ -5,6 +5,8 @@ Flutter version: 3.0.2
 in this tutorial we will list down the countries and and base on country selection we will list down the 
 coresponding states and than the cities base on state selection.
 
+[![Watch Video](https://img.youtube.com/vi/ZtcxdXdlLnI/0.jpg)](https://www.youtube.com/watch?v=ZtcxdXdlLnI)
+
 here is the reference link to get the Country State and cities record
 
 - [Lab: Reference](https://github.com/dr5hn/countries-states-cities-database)
